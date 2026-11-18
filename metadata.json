@@ -1,0 +1,8 @@
+{
+  "name": "GTA 5",
+  "description": "GTA 5 Ultimate Edition — 3D Open-World Action Game by Double Tech featuring driveable cars, flyable airplanes, reactive citizens, and multi-stage missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
